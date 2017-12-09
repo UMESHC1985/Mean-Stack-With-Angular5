@@ -1,0 +1,30 @@
+{
+  "name": "mean-stack-project",
+  "version": "1.0.0",
+  "description": "MEAN Stack With Angular 5",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UMESHC1985/Mean-Stack-With-Angular5.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "5",
+    "Application"
+  ],
+  "author": "Umesh Chandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UMESHC1985/Mean-Stack-With-Angular5/issues"
+  },
+  "homepage": "https://github.com/UMESHC1985/Mean-Stack-With-Angular5#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.6"
+  }
+}
